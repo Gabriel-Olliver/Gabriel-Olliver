@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end Junior`**
 
-Me chamo Gabriel Oliveira dos santos, tenho 21 anos e sou natural de Goiás. Concluí o ensino médio no Colégio Estadual Nazir Safalte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Desde muito cedo me conectei com a tecnologia e hoje em dia quero me profissionalizar nessa área maravilhosa. Meu LinkdIn "[Gabriel Oliveira](https://www.linkedin.com/in/gabriel-olliver/)".
+Me chamo Gabriel Oliveira dos santos, tenho 21 anos e sou natural de Goiás. Concluí o ensino médio no Colégio Estadual Nazir Safalte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Desde muito cedo me conectei com a tecnologia e hoje em dia quero me profissionalizar nessa área maravilhosa. Meu LinkedIn "[Gabriel Oliveira](https://www.linkedin.com/in/gabriel-olliver/)".
 
 ---
 
