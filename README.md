@@ -10,16 +10,16 @@ Me chamo Gabriel Oliveira dos santos, tenho 21 anos e sou natural de Goiás. Con
 
 <img 
     align="left" 
-    alt="JAVA"
-    title="JAVA" 
+    alt="PYTHON"
+    title="PYTHON" 
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
-    alt="PYTHON" 
-    title="PYTHON"
+    alt="JAVA" 
+    title="JAVA"
     width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -30,15 +30,15 @@ Me chamo Gabriel Oliveira dos santos, tenho 21 anos e sou natural de Goiás. Con
     title="GIT"
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
 <img 
     align="left" 
-    alt="Spring"
-    title="Spring" 
+    alt="FastAPI"
+    title="FastAPI" 
     width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 <img 
     align="left" 
